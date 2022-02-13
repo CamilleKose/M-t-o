@@ -1,0 +1,40 @@
+
+
+body {
+    background: #2980B9;
+    background: -webkit-linear-gradient(to right, #FFFFFF, #6DD5FA, #2980B9);
+    background: linear-gradient(to right, #FFFFFF, #6DD5FA, #2980B9);
+    min-width: 400px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+  }
+
+  h1{
+    margin-bottom: 15%;
+    font-style: italic;
+  }
+  
+  #ville {
+    text-transform: capitalize;
+    font-weight: bolder;
+    color: #2D4088;
+    font-size: 2em;
+  }
+  
+  #temperature {
+    font-size: 3em;
+    margin-top : 10%;
+    margin-bottom: 5%;
+  }
+  
+  #changer {
+    background: rgba(178, 223, 251, .3);
+    cursor: pointer;
+  }
+
+  img {
+    margin-bottom : 10%;
+    width: 30%;
+    height: 30%;
+  }
