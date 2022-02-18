@@ -37,10 +37,8 @@ body {
   #changer {
     background: rgba(178, 223, 251, .3);
     cursor: pointer;
-    height: 40px;
-    padding-top: 3%;
     font-style: italic;
-    font-size: 1.3em;
+    /* font-size: 1.3em; */
   }
 
   img {
