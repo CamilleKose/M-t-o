@@ -1,4 +1,5 @@
 let changerDeVille = document.querySelector('#changer');
+
 var baliseIcon = document.createElement('img');
 document.querySelector('#icon_label').append(baliseIcon); 
 
